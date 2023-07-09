@@ -1,1 +1,5 @@
-
+[theme]
+backgroundColor="#000000"
+secondaryBackgroundColor="#b99f9f"
+textColor="#ece7e7"
+font="serif"
